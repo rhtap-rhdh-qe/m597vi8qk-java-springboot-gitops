@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m597vi8qk-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/m597vi8qk-java-springboot
